@@ -1,7 +1,7 @@
-/***********************************************************
-Author: ´ÎÌ¼ËáîÜ£¨admin@web-tinker.com£©
+ï»¿/***********************************************************
+Author: æ¬¡ç¢³é…¸é’´ï¼ˆadmin@web-tinker.comï¼‰
 Latest: 2014-10-05
-Git: 
+Git: https://github.com/YanagiEiichi/JSON.js
 Specification:
   http://ecma-international.org/ecma-262/5.1/#sec-15.12.1.2
 ***********************************************************/
